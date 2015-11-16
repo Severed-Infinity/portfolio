@@ -1,5 +1,5 @@
 (ns script.figwheel
-  (require [figwheel-sidecar.repl :as r]
+  (require #_[figwheel-sidecar.repl :as r]
            [figwheel-sidecar.repl-api :as ra]
            [com.stuartsierra.component :as component]))
 
@@ -34,12 +34,11 @@
 (defn handler [request]
   {:status  200
    :headers {"Content-Type" "text/plain"}
-   :body    "Hello World"})
+   :body    (str "Hello World " request)})
 
 (def system
   (atom
     (component/system-map
-
       :figwheel (map->Figwheel figwheel-config))))
 
 (defn start []

@@ -5,10 +5,7 @@
     <option name="CUSTOM_SCOPE_NAME" value="Module 'portfolio'" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3a338746-7d43-4c8a-bd17-ebe6ae598171" name="Default" comment="Added a Procfile for heroku">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+    <list default="true" id="3a338746-7d43-4c8a-bd17-ebe6ae598171" name="Default" comment="go away">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="portfolio.iws" />
@@ -727,7 +724,7 @@
       <workItem from="1447799619125" duration="1226000" />
       <workItem from="1447801417464" duration="167000" />
       <workItem from="1447801638556" duration="198000" />
-      <workItem from="1447801886644" duration="261000" />
+      <workItem from="1447801886644" duration="280000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit&#10;&#10;Adding the project files to GitHub for my IMD portfolio website&#10;which include the core that is a cljc file that currently handles&#10;rendering and routing.&#10;Also included is a sample shopping.html for testing and learning&#10;">
       <created>1447685230147</created>
@@ -753,11 +750,17 @@
       <option name="project" value="LOCAL" />
       <updated>1447800296096</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="go away">
+      <created>1447802178131</created>
+      <option name="number" value="00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1447802178132</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49782000" />
+    <option name="totallyTimeSpent" value="49801000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
@@ -784,6 +787,7 @@
       <window_info id="DB Browser" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="SBT Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Tasks" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32958034" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32914045" sideWeight="0.492674" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32322174" sideWeight="0.48779" order="7" side_tool="false" content_ui="tabs" />
@@ -796,7 +800,6 @@
       <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3294979" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32958034" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39937106" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32740587" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32943925" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -821,7 +824,8 @@
     <MESSAGE value="Add missing directories, resources and project files&#10;&#10;The files were not included in the initial commit and so must commit separately." />
     <MESSAGE value="Include changes to the calculate function&#10;&#10;Moved the calculate fnction from client-side to server-side and included ajax functionality through the use of shoreleave." />
     <MESSAGE value="Added a Procfile for heroku" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added a Procfile for heroku" />
+    <MESSAGE value="go away" />
+    <option name="LAST_COMMIT_MESSAGE" value="go away" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

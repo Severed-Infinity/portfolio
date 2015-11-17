@@ -5,9 +5,7 @@
     <option name="CUSTOM_SCOPE_NAME" value="Module 'portfolio'" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3a338746-7d43-4c8a-bd17-ebe6ae598171" name="Default" comment="go away">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="3a338746-7d43-4c8a-bd17-ebe6ae598171" name="Default" comment="go away" />
     <ignored path="portfolio.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -724,7 +722,7 @@
       <workItem from="1447799619125" duration="1226000" />
       <workItem from="1447801417464" duration="167000" />
       <workItem from="1447801638556" duration="198000" />
-      <workItem from="1447801886644" duration="280000" />
+      <workItem from="1447801886644" duration="389000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit&#10;&#10;Adding the project files to GitHub for my IMD portfolio website&#10;which include the core that is a cljc file that currently handles&#10;rendering and routing.&#10;Also included is a sample shopping.html for testing and learning&#10;">
       <created>1447685230147</created>
@@ -760,7 +758,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49801000" />
+    <option name="totallyTimeSpent" value="49910000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />

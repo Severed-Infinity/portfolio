@@ -5,85 +5,17 @@
     <option name="CUSTOM_SCOPE_NAME" value="Module 'portfolio'" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3a338746-7d43-4c8a-bd17-ebe6ae598171" name="Default" comment="Added a Procfile for heroku">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/BTIssuesDB.mv.db" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/codeStyleSettings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/haxe.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/replstate.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/doc/intro.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/figwheel_server.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/public/js/domina/events.cljs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/public/js/domina/events.cljs.cache.edn" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/public/js/domina/events.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/public/js/domina/events.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/public/js/domina/xpath.cljs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/public/js/domina/xpath.cljs.cache.edn" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/public/js/domina/xpath.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/public/js/domina/xpath.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/public/js/goog/debug/debug.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/public/js/goog/debug/logbuffer.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/public/js/goog/debug/logger.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/public/js/goog/debug/logrecord.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/public/js/goog/events/eventtarget.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/public/js/goog/html/safescript.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/public/js/goog/html/uncheckedconversions.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/public/js/goog/json/json.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/public/js/goog/log/log.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/public/js/goog/net/cookies.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/public/js/goog/net/errorcode.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/public/js/goog/net/eventtype.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/public/js/goog/net/httpstatus.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/public/js/goog/net/wrapperxmlhttpfactory.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/public/js/goog/net/xhrio.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/public/js/goog/net/xhrlike.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/public/js/goog/net/xmlhttp.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/public/js/goog/net/xmlhttpfactory.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/public/js/goog/structs/collection.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/public/js/goog/structs/set.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/public/js/goog/timer/timer.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/public/js/hiccups/runtime.cljs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/public/js/hiccups/runtime.cljs.cache.edn" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/public/js/hiccups/runtime.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/public/js/hiccups/runtime.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/public/js/shoreleave/browser/cookies.cljs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/public/js/shoreleave/browser/cookies.cljs.cache.edn" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/public/js/shoreleave/browser/cookies.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/public/js/shoreleave/browser/cookies.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/public/js/shoreleave/remotes/common.cljs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/public/js/shoreleave/remotes/common.cljs.cache.edn" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/public/js/shoreleave/remotes/common.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/public/js/shoreleave/remotes/common.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/public/js/shoreleave/remotes/http_rpc.cljs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/public/js/shoreleave/remotes/http_rpc.cljs.cache.edn" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/public/js/shoreleave/remotes/http_rpc.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/public/js/shoreleave/remotes/http_rpc.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/public/js/shoreleave/remotes/protocols.cljs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/public/js/shoreleave/remotes/protocols.cljs.cache.edn" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/public/js/shoreleave/remotes/protocols.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/public/js/shoreleave/remotes/protocols.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/public/js/shoreleave/remotes/xhr.cljs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/public/js/shoreleave/remotes/xhr.cljs.cache.edn" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/public/js/shoreleave/remotes/xhr.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/public/js/shoreleave/remotes/xhr.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/portfolio/core_test.clj" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Procfile" afterPath="$PROJECT_DIR$/Procfile" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project.clj" afterPath="$PROJECT_DIR$/project.clj" />
+    <list default="true" id="3a338746-7d43-4c8a-bd17-ebe6ae598171" name="Default" comment="Change Procfile args to lein style">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="portfolio.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
+    <ignored path=".hgignore" />
+    <ignored path=".nrepl-port" />
+    <ignored path="target/stale/extract-native.dependencies" />
+    <ignored path="target/classes/META-INF/maven/portfolio/portfolio/pom.properties" />
+    <ignored path="target/repl-port" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -111,11 +43,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Procfile" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Procfile" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Procfile">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="0" column="24" selection-start-line="0" selection-start-column="24" selection-end-line="0" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -196,6 +138,7 @@
         <option value="$PROJECT_DIR$/src/cljc/portfolio/core.cljc" />
         <option value="$PROJECT_DIR$/project.clj" />
         <option value="$PROJECT_DIR$/Procfile" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -799,7 +742,7 @@
       <workItem from="1447780776636" duration="3392000" />
       <workItem from="1447793666553" duration="451000" />
       <workItem from="1447799619125" duration="1226000" />
-      <workItem from="1447802451508" duration="1075000" />
+      <workItem from="1447802451508" duration="1419000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit&#10;&#10;Adding the project files to GitHub for my IMD portfolio website&#10;which include the core that is a cljc file that currently handles&#10;rendering and routing.&#10;Also included is a sample shopping.html for testing and learning&#10;">
       <created>1447685230147</created>
@@ -825,11 +768,29 @@
       <option name="project" value="LOCAL" />
       <updated>1447800296096</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Change Procfile args to lein style">
+      <created>1447803961697</created>
+      <option name="number" value="00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1447803961697</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Updated git ignore">
+      <created>1447804264769</created>
+      <option name="number" value="00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1447804264769</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Target output of core.cljc">
+      <created>1447804304081</created>
+      <option name="number" value="00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1447804304081</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50231000" />
+    <option name="totallyTimeSpent" value="50575000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
@@ -856,10 +817,11 @@
       <window_info id="DB Browser" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="SBT Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Tasks" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32958034" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32914045" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32389936" sideWeight="0.490232" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25641027" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32914045" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32389936" sideWeight="0.490232" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25641027" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Graphical Navigator" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -868,7 +830,6 @@
       <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3294979" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32958034" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39937106" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32740587" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32943925" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -893,7 +854,10 @@
     <MESSAGE value="Add missing directories, resources and project files&#10;&#10;The files were not included in the initial commit and so must commit separately." />
     <MESSAGE value="Include changes to the calculate function&#10;&#10;Moved the calculate fnction from client-side to server-side and included ajax functionality through the use of shoreleave." />
     <MESSAGE value="Added a Procfile for heroku" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added a Procfile for heroku" />
+    <MESSAGE value="Change Procfile args to lein style" />
+    <MESSAGE value="Updated git ignore" />
+    <MESSAGE value="Target output of core.cljc" />
+    <option name="LAST_COMMIT_MESSAGE" value="Target output of core.cljc" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1247,14 +1211,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/project.clj">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1283,6 +1239,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="24" selection-start-line="0" selection-start-column="24" selection-end-line="0" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>

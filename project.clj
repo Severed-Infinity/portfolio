@@ -25,7 +25,6 @@
                  [javax.servlet/servlet-api "2.5"]]
   :java-agents [[co.paralleluniverse/quasar-core "0.7.3"]]
   :plugins [[lein-cljsbuild "1.1.1"]]
-  :main "portfolio.core"
   :uberjar-name "portfolio-standalone.jar"
   :profiles {:production {:env {:production true}}})
 

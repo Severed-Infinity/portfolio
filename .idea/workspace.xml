@@ -5,7 +5,7 @@
     <option name="CUSTOM_SCOPE_NAME" value="Module 'portfolio'" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3a338746-7d43-4c8a-bd17-ebe6ae598171" name="Default" comment="Change Procfile args to lein style">
+    <list default="true" id="3a338746-7d43-4c8a-bd17-ebe6ae598171" name="Default" comment="ide stuff">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="portfolio.iws" />
@@ -742,7 +742,7 @@
       <workItem from="1447780776636" duration="3392000" />
       <workItem from="1447793666553" duration="451000" />
       <workItem from="1447799619125" duration="1226000" />
-      <workItem from="1447802451508" duration="1419000" />
+      <workItem from="1447802451508" duration="1431000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit&#10;&#10;Adding the project files to GitHub for my IMD portfolio website&#10;which include the core that is a cljc file that currently handles&#10;rendering and routing.&#10;Also included is a sample shopping.html for testing and learning&#10;">
       <created>1447685230147</created>
@@ -786,11 +786,17 @@
       <option name="project" value="LOCAL" />
       <updated>1447804304081</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="ide stuff">
+      <created>1447804333979</created>
+      <option name="number" value="00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1447804333979</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50575000" />
+    <option name="totallyTimeSpent" value="50587000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
@@ -857,7 +863,8 @@
     <MESSAGE value="Change Procfile args to lein style" />
     <MESSAGE value="Updated git ignore" />
     <MESSAGE value="Target output of core.cljc" />
-    <option name="LAST_COMMIT_MESSAGE" value="Target output of core.cljc" />
+    <MESSAGE value="ide stuff" />
+    <option name="LAST_COMMIT_MESSAGE" value="ide stuff" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

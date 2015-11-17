@@ -24,4 +24,7 @@
                  [org.clojars.magomimmo/shoreleave-remote-ring "0.3.1-SNAPSHOT"]
                  [javax.servlet/servlet-api "2.5"]]
   :java-agents [[co.paralleluniverse/quasar-core "0.7.3"]]
-  :plugins [[lein-cljsbuild "1.1.1"]])
+  :plugins [[lein-cljsbuild "1.1.1"]]
+  :uberjar-name "portfolio-standalone.jar"
+  :profiles {:production {:env {:production true}}})
+
